@@ -1,0 +1,8 @@
+<?xml version='1.0'  encoding = 'UTF-8'?>
+<contacts refresh='0'>
+<contact name="Name 1" number="0000000001" firstname="" lastname="" phone="1111111111" mobile="2222222221" email="" address="" city="" state="" zip="" comment="" presence="1" info="SOCIETY1"/>
+<contact name="Name 2" number="0000000002" firstname="" lastname="" phone="1111111112" mobile="2222222222" email="" address="" city="" state="" zip="" comment="" presence="0" info="SOCIETY2"/>
+<contact name="Name 3" number="0000000003" firstname="" lastname="" phone="1111111113" mobile="2222222223" email="" address="" city="" state="" zip="" comment="" presence="0" info="SOCIETY3"/>
+<contact name="Name 4" number="0000000004" firstname="" lastname="" phone="1111111114" mobile="2222222224" email="" address="" city="" state="" zip="" comment="" presence="0" info="SOCIETY4"/>
+<contact name="Name 5" number="0000000005" firstname="" lastname="" phone="1111111115" mobile="2222222225" email="" address="" city="" state="" zip="" comment="" presence="0" info="SOCIETY5"/>
+</contacts>
